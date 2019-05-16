@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: KK
+Build-Jdk: 11.0.2
+Implementation-Title: resiliency
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.skyy.resliency
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/resiliency
+Created-By: Maven Integration for Eclipse
+
